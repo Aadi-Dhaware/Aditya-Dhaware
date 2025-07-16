@@ -69,8 +69,8 @@ Collaborating on exciting projects and contributing to open-source.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
 </a> <!-- Git -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>&nbsp;
+<a href="https://github.com/Aditya-Dhaware" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="Github" width="40" height="40"/>&nbsp;
 </a> <!-- GitHub -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
