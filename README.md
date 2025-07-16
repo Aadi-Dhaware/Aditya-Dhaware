@@ -31,50 +31,50 @@ Collaborating on exciting projects and contributing to open-source.
 <!-- Frontend -->
 <h3>Frontend:</h1>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-</a> HTML5
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
+</a> <!-- HTML5 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</a> CSS3
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
+</a> <!-- CSS3 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a> JavaScript
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+</a> <!-- JavaScript -->
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</a> React
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
+</a> <!-- React -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="Bootstrap" width="40" height="40"/>
-</a> Bootstrap
+<img src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</a> <!-- Bootstrap -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" alt="Tailwind CSS" width="40" height="40"/>
-</a> Tailwind CSS
+</a> <!-- Tailwind CSS -->
 
 <!-- Backend -->
 <h3>Backend:</h3>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</a> Node.js
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>&nbsp;
+</a> <!-- Node.js -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js" width="40" height="40"/>
-</a> Express.js
+</a> <!-- Express.js -->
 
 <!-- Databases -->
 <h3>Database:</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</a> MongoDB
+</a> <!-- MongoDB -->
 
 
 <h3>Tools & Version Control:</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a> Git
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+</a> <!-- Git -->
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>
-</a> GitHub
+<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>&nbsp;
+</a> <!-- GitHub -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</a> VS Code
+</a> <!-- VS Code -->
 </p>
 
 
